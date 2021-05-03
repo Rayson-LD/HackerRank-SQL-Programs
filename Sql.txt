@@ -8,3 +8,6 @@ select name from city where population > 120000 and countrycode = 'USA'
 select * from city
 
 #4
+select * from city where id = 1661
+
+#5
