@@ -14,3 +14,6 @@ select * from city where id = 1661
 select * from city where countrycode= 'JPN'
 
 #6
+select name from city where countrycode = 'JPN'
+
+#7
