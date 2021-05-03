@@ -17,3 +17,4 @@ select * from city where countrycode= 'JPN'
 select name from city where countrycode = 'JPN'
 
 #7
+select city,state from station 
